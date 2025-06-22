@@ -1,0 +1,72 @@
+(Japanese_coding: sjis)
+(function "ECS_962252"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-17-13:26:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "1717033")
+)
+
+
+(pinAssign "ECS_962252"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-17-13:26:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_962252")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "1717033")
+)
+
+
+(part "1717033"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-02-17-13:26:31)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "1717033")
+    (pinAssignRef "ECS_962252")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "3") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "J")
+    (property "description" "Fixed Terminal Blocks 3P 7.5mm")
+    (property "Manufacturer_Name" "Phoenix Contact")
+    (property "Manufacturer_Part_Number" "1717033")
+    (property "Mouser_Part_Number" "651-1717033")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1717033?qs=aYsvlkyO7qPHPfcN%252B81Plg%3D%3D")
+    (property "Arrow_Part_Number" "1717033")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/1717033/phoenix-contact?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://media.digikey.com/pdf/Data%20Sheets/Phoenix%20Contact%20PDFs/1717033.pdf")
+    (property "compAreaTopHeight" 13.9)
+)
+
+

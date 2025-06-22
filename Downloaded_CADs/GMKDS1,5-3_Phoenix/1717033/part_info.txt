@@ -1,0 +1,9 @@
+Manufacturer=Phoenix Contact
+PartNumber=1717033
+PartCategory=Connector
+PackageCategory=Other
+PinCount=3
+Version=4.3
+Released=2021-02-17 13:26:31
+Downloaded=2025-06-22 22:06:28
+3D=Y
