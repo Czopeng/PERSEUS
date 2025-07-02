@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADPL44002AUJZ_3.3_R7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADPL44002AUJZ-3.3-R7" (!) = "", "SOT95P280X100-5N", "SOT23 (5-Pin)", "584-PL44002AUJZ33R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADPL44002AUJZ-3.3-R7?qs=%252BXxaIXUDbq3bLG2Aqffs8Q%3D%3D", "40V, 200mA, Low Noise, CMOS LDO Linear Regulator", "https://www.analog.com/ADPL44002/datasheet", "1 mm"
+END_PART
+
+END.

@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=D?A NewDesignator=D1A
+Change Component Designator: OldDesignator=D?A NewDesignator=D2A
+Change Component Designator: OldDesignator=D?B NewDesignator=D1B
+Change Component Designator: OldDesignator=D?B NewDesignator=D2B
+Change Component Designator: OldDesignator=D?C NewDesignator=D1C
+Change Component Designator: OldDesignator=D?C NewDesignator=D2C
+Change Net Name : Old Net Name=NetD?A_1 New Net Name=NetD1A_1
+Change Net Name : Old Net Name=NetD?B_1 New Net Name=NetD1B_1
+Change Net Name : Old Net Name=NetD?C_1 New Net Name=NetD1C_1
+Added Member To Class: ClassName=U_Halbbruecke1 Member=Component D1A (D1) FSV1060V
+Added Member To Class: ClassName=U_Halbbruecke3 Member=Component D1C (D1) FSV1060V
+Added Member To Class: ClassName=U_Halbbruecke2 Member=Component D2B (D2) FSV1060V

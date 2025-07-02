@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ADPL44002AUJZ-3_3-R7"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-20-13:02:39)
+    (mountForm default
+        (footprintRef "SOT95P280X100-5N")
+        (spec "System")
+    )
+)

@@ -1,0 +1,228 @@
+Removed Pin From Net: NetName=AD_U_HBC Pin=IC2A-1
+Removed Pin From Net: NetName=AD_U_HBC Pin=IC2A-2
+Removed Pin From Net: NetName=AD_Uzk Pin=IC2A-6
+Removed Pin From Net: NetName=AD_Uzk Pin=IC2A-7
+Removed Pin From Net: NetName=AD_U_HBB Pin=IC2B-6
+Removed Pin From Net: NetName=AD_U_HBB Pin=IC2B-7
+Removed Pin From Net: NetName=HB_C_AC Pin=R13A-2
+Removed Pin From Net: NetName=HB_A_AC Pin=R13B-2
+Removed Pin From Net: NetName=Uzk Pin=R14A-2
+Removed Pin From Net: NetName=HB_B_AC Pin=R14B-2
+Change Component Comment : Designator=C12 Old Comment=ELKO_THT New Comment=47u
+Change Component Comment : Designator=C13 Old Comment=ELKO_THT New Comment=47u
+Added Component: Designator=C9C(1206_C)
+Added Component: Designator=C10C(1206_C)
+Added Component: Designator=C11C(1206_C)
+Added Component: Designator=IC2C(SO08_N)
+Added Component: Designator=MP2(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP3(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP4(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP5(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP6(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP7(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=MP8(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=R13C(1206_R)
+Added Component: Designator=R14C(1206_R)
+Added Component: Designator=R15C(1206_R)
+Added Component: Designator=R16C(1206_R)
+Added Pin To Net: NetName=SGNDA Pin=C9C-1
+Added Pin To Net: NetName=SGNDA Pin=C10C-1
+Added Pin To Net: NetName=+3V3 Pin=C10C-2
+Added Pin To Net: NetName=SGNDA Pin=C11C-1
+Added Pin To Net: NetName=AD_Uzk Pin=IC2B-6
+Added Pin To Net: NetName=AD_Uzk Pin=IC2B-7
+Added Pin To Net: NetName=AD_U_HBB Pin=IC2C-1
+Added Pin To Net: NetName=AD_U_HBB Pin=IC2C-2
+Added Pin To Net: NetName=SGNDA Pin=IC2C-4
+Added Pin To Net: NetName=AD_U_HBC Pin=IC2C-6
+Added Pin To Net: NetName=AD_U_HBC Pin=IC2C-7
+Added Pin To Net: NetName=+3V3 Pin=IC2C-8
+Added Pin To Net: NetName=HB_A_AC Pin=R13A-2
+Added Pin To Net: NetName=Uin Pin=R13B-2
+Added Pin To Net: NetName=HB_B_AC Pin=R13C-2
+Added Pin To Net: NetName=Uzk Pin=R14B-2
+Added Pin To Net: NetName=HB_C_AC Pin=R14C-2
+Added Pin To Net: NetName=SGNDA Pin=R15C-1
+Added Pin To Net: NetName=SGNDA Pin=R16C-1
+Change Net Name : Old Net Name=AD_U_HBA New Net Name=AD_Uin
+Added Pin To Net: NetName=AD_U_HBA Pin=IC2A-1
+Added Pin To Net: NetName=AD_U_HBA Pin=IC2A-2
+Added Net: Name=AD_U_HBA
+Added Pin To Net: NetName=NetC9C_2 Pin=C9C-2
+Added Pin To Net: NetName=NetC9C_2 Pin=IC2C-5
+Added Pin To Net: NetName=NetC9C_2 Pin=R14C-1
+Added Pin To Net: NetName=NetC9C_2 Pin=R15C-2
+Added Net: Name=NetC9C_2
+Added Pin To Net: NetName=NetC11C_2 Pin=C11C-2
+Added Pin To Net: NetName=NetC11C_2 Pin=IC2C-3
+Added Pin To Net: NetName=NetC11C_2 Pin=R13C-1
+Added Pin To Net: NetName=NetC11C_2 Pin=R16C-2
+Added Net: Name=NetC11C_2
+Added Pin To Net: NetName=NetIC2A_6 Pin=IC2A-6
+Added Pin To Net: NetName=NetIC2A_6 Pin=IC2A-7
+Added Net: Name=NetIC2A_6
+Added Pin To Net: NetName=NetR14A_2 Pin=R14A-2
+Added Net: Name=NetR14A_2
+Added Class: Name=U_SpannungssensorTP3
+Added Member To Class: ClassName=U_Mechanik Member=Component MP2 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP3 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP4 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP5 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP6 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP7 T0-220 Cool
+Added Member To Class: ClassName=U_Mechanik Member=Component MP8 T0-220 Cool
+Added Member To Class: ClassName=SpannungssensorTP Member=U_SpannungssensorTP (SpannungssensorTP.SchDoc)

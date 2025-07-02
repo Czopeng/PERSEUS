@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetD1A_1 Pin=D2A-3
+Added Pin To Net: NetName=NetD1B_1 Pin=D2B-3
+Added Pin To Net: NetName=NetD1C_1 Pin=D2C-3
+Added Member To Class: ClassName=U_Halbbruecke3 Member=Component D2C (D2) FSV1060V

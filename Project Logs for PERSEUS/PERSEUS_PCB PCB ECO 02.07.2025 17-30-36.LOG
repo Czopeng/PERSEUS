@@ -1,0 +1,106 @@
+Removed Pin From Net: NetName=Uzk Pin=C1-1
+Removed Pin From Net: NetName=GNDA Pin=C1-2
+Removed Pin From Net: NetName=GNDA Pin=IC3A-15
+Removed Pin From Net: NetName=GNDA Pin=IC3B-15
+Removed Pin From Net: NetName=GNDA Pin=IC3C-15
+Removed Pin From Net: NetName=GNDA Pin=IC3D-15
+Removed Pin From Net: NetName=GNDA Pin=R18A-1
+Removed Pin From Net: NetName=GNDA Pin=R18B-1
+Removed Pin From Net: NetName=GNDA Pin=R18C-1
+Removed Pin From Net: NetName=GNDA Pin=R18D-1
+Removed Member From Class: ClassName=PERSEUS Member=C1
+Change Component Comment : Designator=R3 Old Comment=1k8 New Comment=1k2
+Change Component Comment : Designator=R17A Old Comment=1R8 New Comment=1R
+Change Component Comment : Designator=R17B Old Comment=1R8 New Comment=1R
+Change Component Comment : Designator=R17C Old Comment=1R8 New Comment=1R
+Change Component Comment : Designator=R17D Old Comment=1R8 New Comment=1R
+Change Component Comment : Designator=C15A Old Comment=27u New Comment=470n
+Change Component Comment : Designator=C15B Old Comment=27u New Comment=470n
+Change Component Comment : Designator=C15C Old Comment=27u New Comment=470n
+Change Component Comment : Designator=C15D Old Comment=27u New Comment=470n
+Change Component Comment : Designator=L1 Old Comment=150 uH, 8.4 A New Comment=150 uH, 9 A
+Change Component Designator: OldDesignator=C9A NewDesignator=C9B
+Change Component Designator: OldDesignator=C9B NewDesignator=C9C
+Change Component Designator: OldDesignator=C9C NewDesignator=C9A
+Change Component Designator: OldDesignator=C10A NewDesignator=C10B
+Change Component Designator: OldDesignator=C10B NewDesignator=C10C
+Change Component Designator: OldDesignator=C10C NewDesignator=C10A
+Change Component Designator: OldDesignator=C11A NewDesignator=C11B
+Change Component Designator: OldDesignator=C11B NewDesignator=C11C
+Change Component Designator: OldDesignator=C11C NewDesignator=C11A
+Change Component Designator: OldDesignator=IC2A NewDesignator=IC2B
+Change Component Designator: OldDesignator=IC2B NewDesignator=IC2C
+Change Component Designator: OldDesignator=IC2C NewDesignator=IC2A
+Change Component Designator: OldDesignator=R13A NewDesignator=R13B
+Change Component Designator: OldDesignator=R13B NewDesignator=R13C
+Change Component Designator: OldDesignator=R13C NewDesignator=R13A
+Change Component Designator: OldDesignator=R14A NewDesignator=R14B
+Change Component Designator: OldDesignator=R14B NewDesignator=R14C
+Change Component Designator: OldDesignator=R14C NewDesignator=R14A
+Change Component Designator: OldDesignator=R15A NewDesignator=R15B
+Change Component Designator: OldDesignator=R15B NewDesignator=R15C
+Change Component Designator: OldDesignator=R15C NewDesignator=R15A
+Change Component Designator: OldDesignator=R16A NewDesignator=R16B
+Change Component Designator: OldDesignator=R16B NewDesignator=R16C
+Change Component Designator: OldDesignator=R16C NewDesignator=R16A
+Added Component: Designator=MP2(TO-220 Cool)
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "13.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Finish"; Value = "Anodized"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height Off Base"; Value = "0.5inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "19.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Aluminium"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Bolt"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Natural Thermal Resistance"; Value = "24.4°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Cooled"; Value = "TO-220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shape"; Value = "Fins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermal Resistance @ Forced Air Flow (100 LFM)"; Value = "10°C/W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Passive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.25lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.52inch"; VariantName = "[No Variations]"
+Added Component: Designator=R23A(1206_R)
+Added Component: Designator=R23B(1206_R)
+Added Component: Designator=R23C(1206_R)
+Added Component: Designator=R23D(1206_R)
+Added Pin To Net: NetName=SGNDA Pin=LED4-2
+Added Pin To Net: NetName=Uin Pin=R23A-1
+Added Pin To Net: NetName=NetD5A_1 Pin=R23A-2
+Added Pin To Net: NetName=Uin Pin=R23B-1
+Added Pin To Net: NetName=NetD5B_1 Pin=R23B-2
+Added Pin To Net: NetName=Uin Pin=R23C-1
+Added Pin To Net: NetName=NetD5C_1 Pin=R23C-2
+Added Pin To Net: NetName=Uin Pin=R23D-1
+Added Pin To Net: NetName=NetD5D_1 Pin=R23D-2
+Added Pin To Net: NetName=AD_Uin Pin=U1-14
+Change Net Name : Old Net Name=NetC9A_2 New Net Name=NetC9B_2
+Change Net Name : Old Net Name=NetC9B_2 New Net Name=NetC9C_2
+Change Net Name : Old Net Name=NetC9C_2 New Net Name=NetC9A_2
+Change Net Name : Old Net Name=NetC11A_2 New Net Name=NetC11B_2
+Change Net Name : Old Net Name=NetC11B_2 New Net Name=NetC11C_2
+Change Net Name : Old Net Name=NetC11C_2 New Net Name=NetC11A_2
+Change Net Name : Old Net Name=NetIC2A_6 New Net Name=NetIC2B_6
+Change Net Name : Old Net Name=NetR14A_2 New Net Name=NetR14B_2
+Added Pin To Net: NetName=NetIC3A_15 Pin=IC3A-15
+Added Pin To Net: NetName=NetIC3A_15 Pin=R18A-1
+Added Net: Name=NetIC3A_15
+Added Pin To Net: NetName=NetIC3B_15 Pin=IC3B-15
+Added Pin To Net: NetName=NetIC3B_15 Pin=R18B-1
+Added Net: Name=NetIC3B_15
+Added Pin To Net: NetName=NetIC3C_15 Pin=IC3C-15
+Added Pin To Net: NetName=NetIC3C_15 Pin=R18C-1
+Added Net: Name=NetIC3C_15
+Added Pin To Net: NetName=NetIC3D_15 Pin=IC3D-15
+Added Pin To Net: NetName=NetIC3D_15 Pin=R18D-1
+Added Net: Name=NetIC3D_15
+Added Member To Class: ClassName=U_Gatetreiber1 Member=Component R23A (R23) 1R
+Added Member To Class: ClassName=U_Gatetreiber2 Member=Component R23B (R23) 1R
+Added Member To Class: ClassName=U_Gatetreiber3 Member=Component R23C (R23) 1R
+Added Member To Class: ClassName=U_Gatetreiber4 Member=Component R23D (R23) 1R
